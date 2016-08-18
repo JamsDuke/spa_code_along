@@ -28,22 +28,22 @@
       "description": "Caution!  Occasionaly bursts into flames."
     },
     {
-      "make": "Ford",
-      "model": "Pinto",
-      "year": "1973",
-      "price": "100",
-      "color": "Tomato",
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8999",
+      "color": "Silver",
       "purchased": false,
-      "description": "Caution!  Occasionaly bursts into flames."
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
     },
     {
-      "make": "Ford",
-      "model": "Pinto",
-      "year": "1973",
-      "price": "100",
-      "color": "Tomato",
+      "make": "Mazda",
+      "model": "RX8",
+      "year": "2006",
+      "price": "300",
+      "color": "Blue",
       "purchased": false,
-      "description": "Caution!  Occasionaly bursts into flames."
+      "description": "Wheels not included."
     },
     {
       "make": "Ford",
